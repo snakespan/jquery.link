@@ -1,0 +1,33 @@
+{
+"name": "linkIt",
+"title": "LinkIt JQuery Plugin",
+"description": "Simple plugin to convert any element into a link.",
+"keywords": [
+"link",
+"html"
+],
+"version": "0.1.0",
+"author": {
+"name": "snakespan",
+"url": "https://github.com/snakespan/jquery.link"
+},
+"maintainers": [
+{
+"name": "snakespan",
+"email": "snakespan@github.com",
+"url": "https://github.com/snakespan/jquery.link"
+}
+],
+"licenses": [
+{
+"type": "MIT",
+"url": "https://github.com/snakespan/jquery.link/license.txt"
+}
+],
+"homepage": "https://github.com/snakespan/jquery.link",
+"docs": "https://github.com/snakespan/jquery.link",
+"dependencies": {
+"jquery": ">=1.9"
+}
+}
+
